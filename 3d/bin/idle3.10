@@ -1,0 +1,5 @@
+#!/workspaces/2D-To-3D-video-using-the-computer-vision-/3d/bin/python3.10
+
+from idlelib.pyshell import main
+if __name__ == '__main__':
+    main()

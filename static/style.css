@@ -1,0 +1,50 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+h1 {
+    color: #333;
+}
+
+form {
+    margin: 20px auto;
+}
+
+input[type="file"] {
+    margin: 10px 0;
+}
+
+input[type="submit"] {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+
+input[type="submit"]:hover {
+    background-color: #0056b3;
+}
+
+video {
+    margin-top: 20px;
+}
+
+.download, .back {
+    margin-top: 20px;
+}
+
+.download a, .back a {
+    text-decoration: none;
+    color: #007BFF;
+}
+
+.download a:hover, .back a:hover {
+    text-decoration: underline;
+}

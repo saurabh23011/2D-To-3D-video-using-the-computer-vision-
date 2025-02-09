@@ -1,0 +1,7 @@
+Flask
+torch
+opencv-python
+numpy
+numpy
+h5py
+open3d
